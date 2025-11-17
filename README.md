@@ -59,6 +59,6 @@ Using visualizations and statistical summaries, the following patterns were disc
 - Wealthier passengers had better access to lifeboats.
 
 
-## 📁 Project Structure
+
 
 
