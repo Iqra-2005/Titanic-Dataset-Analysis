@@ -1,17 +1,17 @@
-# 🧹 Titanic Dataset: Data Cleaning & Exploratory Data Analysis (EDA)
+#  Titanic Dataset: Data Cleaning & Exploratory Data Analysis (EDA)
 
 This project explores the Titanic dataset from Kaggle with the goal of performing comprehensive data cleaning and exploratory data analysis. The objective is to uncover meaningful insights about what factors influenced passenger survival during the Titanic disaster.
 
 ---
 
-## 📂 Dataset Overview
+##  Dataset Overview
 
 - **Source**: [Kaggle Titanic Dataset](https://www.kaggle.com/c/titanic/data)
 - **Description**: This dataset provides information on the fate of passengers aboard the Titanic, summarized according to economic status (class), sex, age, and survival.
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Clean the dataset by handling missing values and irrelevant features.
 - Perform exploratory data analysis (EDA) using visualizations.
@@ -20,7 +20,7 @@ This project explores the Titanic dataset from Kaggle with the goal of performin
 
 ---
 
-## 🛠️ Tools & Libraries Used
+##  Tools & Libraries Used
 
 - **Python**
 - **Jupyter Notebook**
@@ -31,7 +31,7 @@ This project explores the Titanic dataset from Kaggle with the goal of performin
 
 ---
 
-## 🧼 Data Cleaning Steps
+##  Data Cleaning Steps
 
 - Dropped columns with excessive missing values like `Cabin`.
 - Filled missing values in `Age` and `Embarked` columns.
@@ -40,7 +40,7 @@ This project explores the Titanic dataset from Kaggle with the goal of performin
 
 ---
 
-## 📊 Exploratory Data Analysis
+##  Exploratory Data Analysis
 
 Using visualizations and statistical summaries, the following patterns were discovered:
 
@@ -52,7 +52,7 @@ Using visualizations and statistical summaries, the following patterns were disc
 
 ---
 
-## 🧠 Key Insights
+##  Key Insights
 
 - Survival strongly depended on social and economic factors.
 - Women and children were given priority during evacuation.
